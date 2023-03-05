@@ -14,7 +14,7 @@ int main(void) {
                 k++;  
             } else cout << " ";  
         } 
-        cout << endl; 
+        cout << endl;  
     }
 
     return 0;  
